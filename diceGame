@@ -114,7 +114,7 @@ def main():
                 dicenum.setText(str(ro))
                 Bal.setText("Balance: " + str(Balance))
             else:
-                print "You dont have enough for that bet!"
+                print "You dont have enough for that bet!!"
                 error(e,win)
         p = win.getMouse()
     win.close()
