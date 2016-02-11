@@ -891,7 +891,7 @@ def test():
     t.setFace("arial")
     win.getMouse()
     t.setSize(20)
-    pic = Image(Point(200,200),"dicetest.gif")
+    pic = Image(Point(200,200),"dicetestt.gif")
     pic.draw(win)
     win.getMouse()
     win.close()
