@@ -1,6 +1,7 @@
 ====================INSTALLING========================
-When you download the .zip, Extract it and be sure you have the python launcher installed.  This was written in 2.7.X
-Open the Dice.py file and run it.  It should prompt you with a gui.
+1. Download Python 2.7.11 at https://www.python.org/downloads/
+2.When you download the .zip, Extract it and be sure you have the python launcher installed.  
+3.Open the Dice.py file and run it.  It should prompt you with a gui.
 ====================HOW TO PLAY=======================
 This game is based of the popular gambling game in runescape called "Dicing"
 
